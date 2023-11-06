@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+/* aqui se encuentran los estilos para las cards de la ultima actividad */
+
+/* .tarjetas-container{
+  
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.tarjeta {
+    width: 50%;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+ .h2{
+    color:black;
+    
+}
+
+.tarjeta:hover {
+    background-color: beige;
+}
+
+.detalle {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.messi1{
+    padding: 20px;
+    width: 80px;
+}
+.messi2{
+    padding: 20px;
+    width: 80px;
+} 
+.messi3{
+    padding: 20px;
+    width: 80px;
+} */
